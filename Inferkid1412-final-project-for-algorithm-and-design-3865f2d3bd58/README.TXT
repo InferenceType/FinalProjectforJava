@@ -4,9 +4,8 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: The Evil Eye
+PURPOSE OF PROJECT: Final project for Algorithm Design
+VERSION or DATE: 01-04-2019
+HOW TO START THIS PROJECT: Click the run button and use the right mouse button to go through the scenes
+AUTHORS: Roberto Solares
