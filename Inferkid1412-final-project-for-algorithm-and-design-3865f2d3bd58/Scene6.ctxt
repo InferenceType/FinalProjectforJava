@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Scene6
+comment0.text=\r\n\ The\ sixth\ scene\ of\ the\ videogame\r\n\ \r\n\ @author\ rsolares@email.sc.edu\r\n\ @version\ 1\r\n
+comment1.params=scoreFromPreviousScene
+comment1.target=Scene6(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Scene6.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=4

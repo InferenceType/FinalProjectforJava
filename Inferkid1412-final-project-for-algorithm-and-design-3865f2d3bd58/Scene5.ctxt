@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Scene5
+comment0.text=\r\n\ The\ fifth\ scene\ of\ the\ videogame\r\n\ \r\n\ @author\ rsolares@email.sc.edu\r\n\ @version\ 1\r\n
+comment1.params=scoreFromPreviousScene
+comment1.target=Scene5(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Scene4.\r\n\ I\ learned\ how\ to\ resize\ images\ from\ this\ link\ https\://www.greenfoot.org/topics/1763\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3
